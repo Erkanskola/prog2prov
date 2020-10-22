@@ -9,6 +9,10 @@ namespace Prog2prov
         {
             System.Console.WriteLine("Här än en bok.");
 
+            Book.Printinfo();
+
+            System.Console.WriteLine("Vill du ha boken?");
+
             ();
         }
     }
