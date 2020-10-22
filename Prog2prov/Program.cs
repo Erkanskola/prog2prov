@@ -6,7 +6,7 @@ namespace Prog2prov
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
