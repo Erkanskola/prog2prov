@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Prog2prov
 {
@@ -6,7 +7,9 @@ namespace Prog2prov
     {
         static void Main(string[] args)
         {
-            
+            System.Console.WriteLine("Här än en bok.");
+
+            ();
         }
     }
 }
