@@ -1,0 +1,13 @@
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\bin\Debug\netcoreapp3.1\Prog2prov.exe
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\bin\Debug\netcoreapp3.1\Prog2prov.deps.json
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\bin\Debug\netcoreapp3.1\Prog2prov.runtimeconfig.json
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\bin\Debug\netcoreapp3.1\Prog2prov.runtimeconfig.dev.json
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\bin\Debug\netcoreapp3.1\Prog2prov.dll
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\bin\Debug\netcoreapp3.1\Prog2prov.pdb
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\obj\Debug\netcoreapp3.1\Prog2prov.csprojAssemblyReference.cache
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\obj\Debug\netcoreapp3.1\Prog2prov.AssemblyInfoInputs.cache
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\obj\Debug\netcoreapp3.1\Prog2prov.AssemblyInfo.cs
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\obj\Debug\netcoreapp3.1\Prog2prov.csproj.CoreCompileInputs.cache
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\obj\Debug\netcoreapp3.1\Prog2prov.dll
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\obj\Debug\netcoreapp3.1\Prog2prov.pdb
+C:\Users\erik.calissendorff\Dropbox\PRRPRR1\Prog2\Prog2prov\obj\Debug\netcoreapp3.1\Prog2prov.genruntimeconfig.cache
